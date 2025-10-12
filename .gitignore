@@ -1,42 +1,5 @@
-# Created by .gitignore support plugin (hsz.mobi)
-### Java template
-*.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
-
-
-
-# Package Files #
-.project
-.classpath
-.settings
+.idea/
 target
-dist
-logs
-release
-
 *.iml
 *.iws
-
-*.log
-space-logs/
-*/#*#
-*.epoch
-
-# QuickBuild
-.qbcache/
-
-.idea/
-
-*.swp
-
-
-.cloudify/
-local-storage/
-tests_env/
-*~
+.flattened-pom.xml
