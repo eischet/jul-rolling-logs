@@ -1,4 +1,6 @@
-Copyright (c) 2008-2016, GigaSpaces Technologies, Inc. All Rights Reserved.
+Copyright (c) 2008–2016, GigaSpaces Technologies, Inc.
+Copyright (c) 2025, Eischet Software e. K.
+All Rights Reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
