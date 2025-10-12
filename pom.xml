@@ -8,9 +8,18 @@
         <version>1.0.2</version>
     </parent>
 
-    <groupId>com.eischet</groupId>
     <artifactId>jul-rolling-logs</artifactId>
     <version>${revision}</version>
+
+    <properties>
+        <revision>1.0.0-SNAPSHOT</revision>
+
+        <!-- must fix in the parent POM: should use release instead of source/target nowadays -->
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.release>17</maven.compiler.release>
+
+    </properties>
 
     <dependencies>
         <dependency>
