@@ -12,7 +12,7 @@
     <version>${revision}</version>
 
     <properties>
-        <revision>1.0.0-SNAPSHOT</revision>
+        <revision>1.0.0</revision>
 
         <!-- must fix in the parent POM: should use release instead of source/target nowadays -->
         <maven.compiler.source>17</maven.compiler.source>
